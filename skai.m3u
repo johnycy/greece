@@ -1,12 +1,1 @@
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI HD (C)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-SKAI-HD/mpegts?token=H1PTV02389:Qe2nCnqkb9
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="Skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-SKAI/mpegts?token=H1PTV02389:Qe2nCnqkb9
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI (BACKUP)
-http://ns337833.ip-5-196-78.eu:8081/live/GR-SKAI-B/mpegts?token=H1PTV02389:Qe2nCnqkb9
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="skai.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | SKAI (BACKUP III)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-STAR-INTERNATIONAL/mpegts?token=H1PTV02389:Qe2nCnqkb9
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR HD (C)
-http://ns335432.ip-5-196-64.eu:8080/live/GR-STAR-HD/mpegts?token=H1PTV02389:Qe2nCnqkb9
-#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP2", GR VIP2 | STAR
-http://ns6815083.ip-193-70-93.eu:8080/live/GR-STAR/mpegts?token=H1PTV02389:Qe2nCnqkb9
+
